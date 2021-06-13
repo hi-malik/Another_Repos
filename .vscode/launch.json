@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch buyandsellstock1",
+            "request": "launch",
+            "mainClass": "buyandsellstock1",
+            "projectName": "VS_CODE_758b35b"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
