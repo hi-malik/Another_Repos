@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DupliacteBrackets",
+            "request": "launch",
+            "mainClass": "DupliacteBrackets",
+            "projectName": "VS_CODE_758b35b"
+        },
+        {
+            "type": "java",
             "name": "Launch Stackslearn",
             "request": "launch",
             "mainClass": "Stackslearn",
