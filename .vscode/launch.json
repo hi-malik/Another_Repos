@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Stackslearn",
+            "request": "launch",
+            "mainClass": "Stackslearn",
+            "projectName": "VS_CODE_758b35b"
+        },
+        {
+            "type": "java",
             "name": "Launch buyandsellstock1",
             "request": "launch",
             "mainClass": "buyandsellstock1",
